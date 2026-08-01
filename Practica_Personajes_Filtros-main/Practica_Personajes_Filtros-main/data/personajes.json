@@ -1,0 +1,324 @@
+[
+    {
+        "id": 1,
+        "nombre": "Spectra",
+        "rol": "Francotirador",
+        "nivel": 13,
+        "salud": 889,
+        "dano": 70,
+        "velocidad": 3.4,
+        "habilidades": [
+            "crítico",
+            "cura",
+            "dash"
+        ],
+        "faccion": "Sombra",
+        "activo": false
+    },
+    {
+        "id": 3,
+        "nombre": "Titan",
+        "rol": "Soporte",
+        "nivel": 22,
+        "salud": 1760,
+        "dano": 165,
+        "velocidad": 3.1,
+        "habilidades": [
+            "cura",
+            "dash",
+            "teletransporte"
+        ],
+        "faccion": "Centinelas",
+        "activo": false
+    },
+    {
+        "id": 2,
+        "nombre": "Volt",
+        "rol": "Explorador",
+        "nivel": 33,
+        "salud": 3247,
+        "dano": 113,
+        "velocidad": 2.6,
+        "habilidades": [
+            "misil",
+            "regeneración",
+            "barrera"
+        ],
+        "faccion": "Aegis",
+        "activo": false
+    },
+    {
+        "id": 10,
+        "nombre": "Shadow",
+        "rol": "Francotirador",
+        "nivel": 38,
+        "salud": 2954,
+        "dano": 188,
+        "velocidad": 2.7,
+        "habilidades": [
+            "escudo",
+            "campo eléctrico",
+            "invisibilidad",
+            "barrera"
+        ],
+        "faccion": "Aegis",
+        "activo": false
+    },
+    {
+        "id": 11,
+        "nombre": "Blaze",
+        "rol": "Explorador",
+        "nivel": 21,
+        "salud": 2118,
+        "dano": 69,
+        "velocidad": 2.4,
+        "habilidades": [
+            "invisibilidad",
+            "regeneración",
+            "misil",
+            "provocar"
+        ],
+        "faccion": "Red Nova",
+        "activo": true
+    },
+    {
+        "id": 20,
+        "nombre": "Frost",
+        "rol": "Asesino",
+        "nivel": 19,
+        "salud": 3296,
+        "dano": 77,
+        "velocidad": 3.6,
+        "habilidades": [
+            "cura",
+            "regeneración",
+            "dash",
+            "provocar"
+        ],
+        "faccion": "Legión",
+        "activo": false
+    },
+    {
+        "id": 13,
+        "nombre": "Nova",
+        "rol": "Explorador",
+        "nivel": 1,
+        "salud": 1998,
+        "dano": 97,
+        "velocidad": 2.7,
+        "habilidades": [
+            "crítico",
+            "misil",
+            "escudo"
+        ],
+        "faccion": "Red Nova",
+        "activo": true
+    },
+    {
+        "id": 15,
+        "nombre": "Wraith",
+        "rol": "Soporte",
+        "nivel": 20,
+        "salud": 1052,
+        "dano": 104,
+        "velocidad": 1.3,
+        "habilidades": [
+            "barrera",
+            "impulso",
+            "provocar"
+        ],
+        "faccion": "Legión",
+        "activo": true
+    },
+    {
+        "id": 16,
+        "nombre": "Echo",
+        "rol": "Tanque",
+        "nivel": 34,
+        "salud": 1076,
+        "dano": 83,
+        "velocidad": 2.6,
+        "habilidades": [
+            "misil",
+            "impulso"
+        ],
+        "faccion": "Centinelas",
+        "activo": false
+    },
+    {
+        "id": 17,
+        "nombre": "Viper",
+        "rol": "Francotirador",
+        "nivel": 46,
+        "salud": 2396,
+        "dano": 72,
+        "velocidad": 2.2,
+        "habilidades": [
+            "teletransporte",
+            "invisibilidad",
+            "provocar",
+            "dash"
+        ],
+        "faccion": "Legión",
+        "activo": false
+    },
+    {
+        "id": 18,
+        "nombre": "Draco",
+        "rol": "Soporte",
+        "nivel": 24,
+        "salud": 2098,
+        "dano": 183,
+        "velocidad": 1.3,
+        "habilidades": [
+            "invisibilidad",
+            "campo eléctrico",
+            "teletransporte",
+            "misil"
+        ],
+        "faccion": "Centinelas",
+        "activo": false
+    },
+    {
+        "id": 21,
+        "nombre": "Phantom",
+        "rol": "Asesino",
+        "nivel": 8,
+        "salud": 1447,
+        "dano": 85,
+        "velocidad": 2.9,
+        "habilidades": [
+            "misil",
+            "campo eléctrico",
+            "regeneración"
+        ],
+        "faccion": "Aegis",
+        "activo": false
+    },
+    {
+        "id": 22,
+        "nombre": "Glitch",
+        "rol": "Asesino",
+        "nivel": 7,
+        "salud": 2042,
+        "dano": 86,
+        "velocidad": 4.0,
+        "habilidades": [
+            "cura",
+            "misil",
+            "invisibilidad"
+        ],
+        "faccion": "Aegis",
+        "activo": true
+    },
+    {
+        "id": 23,
+        "nombre": "Tankr",
+        "rol": "Explorador",
+        "nivel": 16,
+        "salud": 3387,
+        "dano": 106,
+        "velocidad": 1.1,
+        "habilidades": [
+            "crítico",
+            "cura",
+            "barrera"
+        ],
+        "faccion": "Red Nova",
+        "activo": true
+    },
+    {
+        "id": 24,
+        "nombre": "Artemis",
+        "rol": "Asesino",
+        "nivel": 56,
+        "salud": 2145,
+        "dano": 167,
+        "velocidad": 3.5,
+        "habilidades": [
+            "misil",
+            "regeneración",
+            "dash",
+            "invisibilidad"
+        ],
+        "faccion": "Red Nova",
+        "activo": false
+    },
+    {
+        "id": 25,
+        "nombre": "Zer0",
+        "rol": "Francotirador",
+        "nivel": 33,
+        "salud": 3162,
+        "dano": 195,
+        "velocidad": 3.1,
+        "habilidades": [
+            "teletransporte",
+            "misil"
+        ],
+        "faccion": "Aegis",
+        "activo": true
+    },
+    {
+        "id": 25,
+        "nombre": "Scorch",
+        "rol": "Asesino",
+        "nivel": 24,
+        "salud": 2862,
+        "dano": 85,
+        "velocidad": 3.9,
+        "habilidades": [
+            "crítico",
+            "escudo",
+            "misil"
+        ],
+        "faccion": "Aegis",
+        "activo": true
+    },
+    {
+        "id": 27,
+        "nombre": "Tempest",
+        "rol": "Tanque",
+        "nivel": 49,
+        "salud": 1406,
+        "dano": 136,
+        "velocidad": 3.3,
+        "habilidades": [
+            "impulso",
+            "campo eléctrico"
+        ],
+        "faccion": "Centinelas",
+        "activo": false
+    },
+    {
+        "id": 28,
+        "nombre": "Steel",
+        "rol": "Francotirador",
+        "nivel": 52,
+        "salud": 2776,
+        "dano": 103,
+        "velocidad": 2.3,
+        "habilidades": [
+            "provocar",
+            "dash"
+        ],
+        "faccion": "Sombra",
+        "activo": true
+    },
+    {
+        "id": 29,
+        "nombre": "Nimbus",
+        "rol": "Francotirador",
+        "nivel": 16,
+        "salud": 1229,
+        "dano": 102,
+        "velocidad": 2.8,
+        "habilidades": [
+            "invisibilidad",
+            "barrera",
+            "cura"
+        ],
+        "faccion": "Red Nova",
+        "activo": false
+    }
+]
